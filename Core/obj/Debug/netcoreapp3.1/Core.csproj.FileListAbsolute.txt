@@ -1,0 +1,17 @@
+D:/demo/Scribe/Core/bin/Debug/netcoreapp3.1/Core.deps.json
+D:/demo/Scribe/Core/bin/Debug/netcoreapp3.1/Core.dll
+D:/demo/Scribe/Core/bin/Debug/netcoreapp3.1/Core.pdb
+D:/demo/Scribe/Core/obj/Debug/netcoreapp3.1/Core.csprojAssemblyReference.cache
+D:/demo/Scribe/Core/obj/Debug/netcoreapp3.1/Core.csproj.CoreCompileInputs.cache
+D:/demo/Scribe/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfoInputs.cache
+D:/demo/Scribe/Core/obj/Debug/netcoreapp3.1/Core.AssemblyInfo.cs
+D:/demo/Scribe/Core/obj/Debug/netcoreapp3.1/Core.dll
+D:/demo/Scribe/Core/obj/Debug/netcoreapp3.1/Core.pdb
+C:\Users\Zach\Desktop\SCRIBE\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Zach\Desktop\SCRIBE\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Zach\Desktop\SCRIBE\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Zach\Desktop\SCRIBE\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Zach\Desktop\SCRIBE\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Zach\Desktop\SCRIBE\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Zach\Desktop\SCRIBE\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Zach\Desktop\SCRIBE\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
